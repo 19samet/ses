@@ -1,5 +1,9 @@
 [![Voicybot](/img/logo.png?raw=true)](http://voicybot.com/)
 
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/19samet/bodrumadon-s.git)
+
+
 # [@voicybot](https://t.me/voicybot) main repository
 
 This repository contains the code for one of the most popular bots I've ever built for Telegram — [@voicybot](https://t.me/voicybot). Please, feel free to fork, add features and create pull requests so that everybody (over 600 000 chats) can experience the features you've built.
