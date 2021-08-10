@@ -1,7 +1,7 @@
 [![Voicybot](/img/logo.png?raw=true)](http://voicybot.com/)
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/19samet/bodrumadon-s.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/19samet/ses.git)
 
 
 # [@voicybot](https://t.me/voicybot) main repository
